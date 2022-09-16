@@ -13,9 +13,9 @@ static String input(String prompt){
         
         String prompt = "Mi a neved kutya: ";
 
-        System.out.print("Mi a neved kutya: ");
+        //System.out.print("Mi a neved kutya: ");
         String name = input(prompt);
-        System.out.println("Szia" + name);
+        System.out.println("Szia " + name);
         
     }
 }
