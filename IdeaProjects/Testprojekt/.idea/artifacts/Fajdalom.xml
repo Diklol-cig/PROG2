@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Fajdalom">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fajdalom</output-path>
+    <root id="archive" name="Fajdalom.jar" />
+  </artifact>
+</component>
